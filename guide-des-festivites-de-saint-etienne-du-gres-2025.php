@@ -148,7 +148,7 @@
         <h2>Juin – Août</h2>
         <div class="grid-events">
           <div class="event-item">
-            <h4>Pas d’événements majeurs spécifiques</h4>
+            <h4>Marchés et animations locales</h4>
             <p>
               La commune reste animée avec ses marchés et animations locales.
             </p>
@@ -174,7 +174,7 @@
           <div class="event-item">
             <h4>Animations de fin d’année</h4>
             <p>
-              Pas d’événements majeurs spécifiques référencés, mais des animations ponctuelles peuvent avoir lieu (à vérifier localement).
+              Animations ponctuelles locales.
             </p>
           </div>
         </div>
