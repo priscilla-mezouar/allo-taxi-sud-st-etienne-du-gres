@@ -1,12 +1,16 @@
 <!DOCTYPE html>
 <html lang="fr">
   <head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SS5WXF69MY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-  <?php include('./includes/head-links.php'); ?>
-
-    <!-- Titre et description -->
-    <title>
-      Allo Taxi Sud Saint-Étienne-du-Grès | Taxi 7j/7 à Saint-Étienne-du-Grès et ses alentours
+  gtag('config', 'G-SS5WXF69MY');
+</script>
+  <?php include('./includes/head-links.php'); ?> <!-- Titre et description --> <title> Allo Taxi Sud Saint-Étienne-du-Grès | Taxi 7j/7 à Saint-Étienne-du-Grès et ses alentours
     </title>
     <meta
       name="description"
@@ -19,7 +23,7 @@
     <!-- Open Graph (Facebook & LinkedIn) -->
     <meta
     property="og:title"
-    content="Allo Taxi Sud Saint-Étienne-du-Grès | Taxi 7j/7 à Saint-Étienne-du-Grès et ses alentours" />
+    content="Allo Taxi Sud Saint-Étienne-du-Grès | Taxi 7j/7 Saint-Étienne-du-Grès et ses alentours" />
     <meta
     property="og:description"
     content="Transport de qualité 24h/24 et 7j/7 sur réservation à Saint-Étienne-du-Grès : Taxis, transferts aéroports, gares, tourisme, évènements, transport médical." />

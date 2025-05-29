@@ -22,13 +22,10 @@ echo'<section class="card" id="a-propos">
           </div>
           <div class="presentation">
             <p>
-              L’entreprise Allo Taxi Saint-Étienne-du-Grès est située à Saint-Étienne-du-Grès, petite commune des Alpilles, dans le département des Bouches-du-Rhône, à 20 km de la gare d’Avignon et à proximité de Nîmes, Cette compagnie de taxi intervient dans toute la France et à l’étranger pour vos transports.
-              <br/>
-              <br/>
-              Ce service de taxi propose des transports particuliers, professionnels et médicaux conventionnés par la sécurité sociale.
-              <br/>
-              <br/>
-              L’établissement dispose de la licence Taxi Saint-Étienne-du-Grès n°1, et fait aussi partie du groupe Allo Taxi Sud.
+              Entreprise locale, ancrée dans la région Sud, Allo Taxi Sud Saint-Étienne-du-Grès
+              s\'engage pour la qualité, la sécurité et votre satisfaction. Notre
+              équipe de professionnels est dédiée à vous offrir un service de
+              transport irréprochable.
             </p>
           </div>
         </div>

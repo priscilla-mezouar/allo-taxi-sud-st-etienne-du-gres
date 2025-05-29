@@ -1,19 +1,28 @@
 <!DOCTYPE html>
 <html lang="fr">
   <head>
-    
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SS5WXF69MY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-SS5WXF69MY');
+</script>
   <?php include('./includes/head-links.php'); ?>
 
     <!-- Titre et description -->
     <title>
-      Nouveaux partenariats 2025 | Allo Taxi Sud Saint-Étienne-du-Grès - Votre taxi à Saint-Étienne-du-Grès et ses alentours
+      Nouveaux partenariats 2025 | Allo Taxi Sud Saint-Étienne-du-Grès - Votre taxi 7 jours/7
+      à Saint-Étienne-du-Grès et ses alentours
     </title>
     <meta
       name="description"
-      content="Découvrez les nouveaux partenaires d’Allo Taxi Sud Saint-Étienne-du-Grès : hôtels, gîtes, wedding planners, lieux touristiques et professionnels de santé à Saint-Étienne-du-Grès et ses alentours." />
+      content="Découvrez les nouveaux partenaires d’Allo Taxi Sud Saint-Étienne-du-Grès : hôtels, gîtes, wedding planners, lieux touristiques et professionnels de santé autour de Saint-Étienne-du-Grès et ses alentours." />
     <meta
       name="keywords"
-      content="partenaires Allo Taxi Sud Saint-Étienne-du-Grès, partenariat taxi Saint-Étienne-du-Grès, taxi hôtels Saint-Étienne-du-Grès, taxi Saint-Étienne-du-Grès, wedding planner Saint-Étienne-du-Grès, taxi tourisme, taxi professionnel santé, Allo Taxi Sud Saint-Étienne-du-Grès" />
+      content="partenaires Allo Taxi Sud Saint-Étienne-du-Grès, partenariat taxi Saint-Étienne-du-Grès, taxi hôtels Saint-Étienne-du-Grès, taxi Saint-Étienne-du-Grès, wedding planner Saint-Étienne-du-Grès, taxi tourisme Saint-Étienne-du-Grès, taxi professionnel santé Saint-Étienne-du-Grès, Allo Taxi Sud Saint-Étienne-du-Grès" />
 
     <link
       rel="canonical"
@@ -55,7 +64,7 @@
           Allo Taxi Sud Saint-Étienne-du-Grès tisse des liens avec des acteurs locaux pour offrir
           toujours plus de services à ses clients. Découvrez ici nos tout
           nouveaux partenariats, pensés pour renforcer la proximité, la qualité
-          et la réactivité de nos prestations à Saint-Étienne-du-Grès et alentours.
+          et la réactivité de nos prestations à Saint-Étienne-du-Grès et ses alentours.
         </p>
       </div>
 
@@ -65,7 +74,7 @@
         <h2>Devenez partenaire d’Allo Taxi Sud Saint-Étienne-du-Grès</h2>
         <p>
           Vous êtes hôtelier, restaurateur, wedding planner ou acteur du
-          tourisme à Saint-Étienne-du-Grès et ses alentours ?
+          tourisme à Saint-Étienne-du-Grès ?
           <br /><strong>Allo Taxi Sud Saint-Étienne-du-Grès</strong> vous propose un service de
           transport fiable et local pour vos clients, adapté à leurs besoins.
           <br />Ensemble, offrons une expérience complète et sereine à vos
@@ -75,10 +84,9 @@
           <a
             class="button-link"
             href="./demande-de-devis.php"
-            class="button-link"
             ><i class="bi bi-envelope"></i> Demander un devis</a
           >
-          <a class="button-link" href="tel:+33610892802" class="button-link"
+          <a class="button-link" href="tel:+33610892802" 
             ><i class="bi bi-phone"></i> Réservation express</a
           >
         </div>
